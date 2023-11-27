@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background: #202020;
+  color: white;
+}
+
+form {
+  width: 20rem;
+  display: grid;
+  row-gap: 0.5rem;
+}
